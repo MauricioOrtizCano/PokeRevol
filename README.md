@@ -1,5 +1,8 @@
 # PokeRevol
 
+![pokeball](https://github.com/MauricioOrtizCano/PokeRevol/assets/110431387/cf889504-bec9-45da-aaa9-5c3bb78f58f5)
+
+
 La Pokedex App es una aplicación web que te permite explorar y descubrir información detallada sobre diferentes Pokemones. Con una interfaz intuitiva y atractiva, podrás navegar por una amplia variedad de especies, conocer sus características y aprender sobre sus habilidades, tipos y evoluciones.
 
 Características principales
@@ -11,9 +14,9 @@ Interfaz amigable y atractiva: Disfruta de una experiencia de usuario fluida y a
 Tecnologías utilizadas
 La Pokedex App ha sido desarrollada utilizando las siguientes tecnologías:
 
-Back-end: Node.js, Express, PostgreSQL, Sequelize.
-Front-end: React, Redux, HTML5, CSS3.
-Otras herramientas: Babel, Webpack, Axios, Redux Thunk, React Router.
+# Back-end: Node.js, Express, PostgreSQL, Sequelize.
+# Front-end: React, Redux, HTML5, CSS3.
+# Otras herramientas: Babel, Webpack, Axios, Redux Thunk, React Router.
 Configuración y uso
 Sigue estos pasos para configurar y ejecutar la aplicación en tu entorno local:
 
